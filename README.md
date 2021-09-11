@@ -1,8 +1,20 @@
-### Hi there 👋
+### under construction...  🔭
 
-**joseotaviopc/joseotaviopc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ <div>
+  <a href="https://github.com/joseotaviopc">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joseotaviopc&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true">
+  </a>  
+  <span>&nbsp;&nbsp;</span>  
+  <a href="https://github.com/joseotaviopc">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseotaviopc&layout=compact&langs_count=7&theme=city_lights"/>
+  </a>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Jose-HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&nbsp;
+  <img align="center" alt="Jose-CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&nbsp;
+  <img align="center" alt="Jose-Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div><br>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
