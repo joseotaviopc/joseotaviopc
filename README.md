@@ -1,33 +1,28 @@
 ### Experiência de trabalho
 
-Abaixo você encontrará minha experiência de trabalho mais recente:
-
 [<img align="left" height="80px" width="80px" alt="Musicpro" src="https://play-lh.googleusercontent.com/GbRLRa5YJJuaF1fNLiwwlBwFXOEkG_HC_yP12exSdFeTb9MbXIorl0KdKO1OuzsALg=w480-h960"/>](https://musicpro.live/)
 
-**Mobile Developer** \
-[**MusicPro**](https://musicpro.live/) • Full-time \
+[**MusicPro**](https://musicpro.live/) • Full-time - **Mobile Developer** \
 Linguagens & Tecnologias: `Typescript`, `React Native`, `React`, `JavaScript`, `Styled Components`, `Tailwindcss`, `React Hook Form`, `React Native Reanimated`\
 Projetos em destaque: [Musicpro app](https://play.google.com/store/apps/details?id=live.musicpro), [Musicpro web](<https://app.musicpro.live/>), [Creator Pro](https://creatorpro.live/)
 <br/>
 
 [<img align="left" height="80px" width="80px" alt="Paipe" src="https://media.licdn.com/dms/image/v2/D4D0BAQFXMWAzSIpqQQ/company-logo_200_200/company-logo_200_200/0/1718629344330?e=1747267200&v=beta&t=0FppmHnqpILT_VFJvYVSbGeYTehN0qARG5sLFUQuWfE"/>](https://paipe.co/)
 
-**Frot-end Developer (Jr)** \
-[**Paipe**](https://paipe.co/) • Full-time \
+[**Paipe**](https://paipe.co/) • Full-time - **Frot-end Developer (Jr)** \
 Linguagens & Tecnologias: `TypeScript`, `JavaScript`, `React`, `Styled Components`\
 Projetos em destaque: [PaperOn](https://paperon.app/), [PayOS](https://dashboard.payos.app/)
 <br/>
 
 [<img align="left" height="80px" width="80px" alt="Arriel" src="https://pbs.twimg.com/profile_images/1078621840967458816/QLUvJ3JD_400x400.jpg"/>](https://www.arrielautomacao.com.br/)
 
-**Software Engineer** \
-[**Arriel Automação**](https://www.arrielautomacao.com.br/) • Part-time \
+[**Arriel Automação**](https://www.arrielautomacao.com.br/) • Part-time - **Software Engineer** \
 Linguagens & Tecnologias: `Flutter`, `Dart`, `Typescript`, `Node`, `NextJs`, `Swagger`, `Docker`, `Shadcnui` \
 Projetos em destaque: [Negociar](https://play.google.com/store/apps/details?id=br.com.arriel.negociar), [Vanto Boletos](https://vanto-boletos.arriel.com.br/)
 <br/>
 <br/>
 
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/jose-otavio-pires-de-carvalho/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/jose-otavio-pires-de-carvalho/) para uma descrição mais detalhada.
 
 #### Contato
 
@@ -69,7 +64,3 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/jose-otavio-pir
   | <img style="border-radius: 6px" align="center" alt="Jose-Sanity" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sanity/sanity-original.svg" /> | <img align="center" alt="Jose-Figma" height="30" width="30" src="https://skillicons.dev/icons?i=figma" /> |
   | ------ | ----- |
   | Sanity | Figma |
-
-<a href="https://github.com/joseotaviopc" title="Perfil do José Otavio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joseotaviopc&theme=dracula&show_icons=true" />
-</a>
