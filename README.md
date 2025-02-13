@@ -5,14 +5,14 @@
 [**MusicPro**](https://musicpro.live/) • Full-time - **Mobile Developer** \
 Linguagens & Tecnologias: `Typescript`, `React Native`, `React`, `JavaScript`, `Styled Components`, `Tailwindcss`, `React Hook Form`, `React Native Reanimated`\
 Projetos em destaque: [Musicpro app](https://play.google.com/store/apps/details?id=live.musicpro), [Musicpro web](<https://app.musicpro.live/>), [Creator Pro](https://creatorpro.live/)
-<br/>
+<br/><br/>
 
 [<img align="left" height="80px" width="80px" alt="Paipe" src="https://media.licdn.com/dms/image/v2/D4D0BAQFXMWAzSIpqQQ/company-logo_200_200/company-logo_200_200/0/1718629344330?e=1747267200&v=beta&t=0FppmHnqpILT_VFJvYVSbGeYTehN0qARG5sLFUQuWfE"/>](https://paipe.co/)
 
 [**Paipe**](https://paipe.co/) • Full-time - **Frot-end Developer (Jr)** \
 Linguagens & Tecnologias: `TypeScript`, `JavaScript`, `React`, `Styled Components`\
 Projetos em destaque: [PaperOn](https://paperon.app/), [PayOS](https://dashboard.payos.app/)
-<br/>
+<br/><br/>
 
 [<img align="left" height="80px" width="80px" alt="Arriel" src="https://pbs.twimg.com/profile_images/1078621840967458816/QLUvJ3JD_400x400.jpg"/>](https://www.arrielautomacao.com.br/)
 
